@@ -6,7 +6,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="erase | Mastodon" width="22px" src="./img/mastodon-icon.svg"
+[<img align="left" alt="erase | Mastodon" width="30px" src="./img/mastodon-icon.svg"
 />][Mastodon]
 
 <br/>
