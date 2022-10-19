@@ -10,7 +10,6 @@
 />][Mastodon]
 
 <br/>
-<br/>
 
 ### Languages and Tools:
 
