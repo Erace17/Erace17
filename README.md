@@ -23,7 +23,7 @@
 <img align="left" alt="postgresql" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
 <img align="left" alt="sqlite" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg"/>
 <img align="left" alt="python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-<img align="left" alt="python" width="30px" src="./img/terminal-dark.svg#gh-dark-mode-only"/>
-<img align="left" alt="python" width="30px" src="./img/terminal-light.svg#gh-light-mode-only"/>
+<img align="left" alt="terminal" width="30px" src="./img/terminal-dark.svg#gh-dark-mode-only"/>
+<img align="left" alt="terminal" width="30px" src="./img/terminal-light.svg#gh-light-mode-only"/>
 
 [Mastodon]: https://chaos.social/@erase
