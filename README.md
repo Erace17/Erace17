@@ -13,7 +13,7 @@
 
 ### Languages and Tools:
 
-
+<img align="left" alt="vscode" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
 
 
 [Mastodon]: https://chaos.social/@erase
