@@ -28,7 +28,7 @@
 
 [Mastodon]: https://chaos.social/@erase
 
-\
+<br/>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Erase01&layout=compact&theme=dark)
 
