@@ -30,7 +30,7 @@
 
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Erase01&layout=compact&theme=dark)
-<br/>
+
 ![](https://github-readme-stats.vercel.app/api?username=Erase01&show_icons=true&theme=dark)
-<br/>
+
 [![](https://streak-stats.demolab.com/?user=Erase01&theme=dark)](https://git.io/streak-stats)
