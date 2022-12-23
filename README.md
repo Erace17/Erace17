@@ -11,12 +11,6 @@
 
 <br/>
 
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Erase01&layout=compact&theme=dark)
-![](https://github-readme-stats.vercel.app/api?username=Erase01&show_icons=true&theme=dark)
-
-[![](https://streak-stats.demolab.com/?user=Erase01&theme=dark)](https://git.io/streak-stats)
-
 ### Languages and Tools:
 
 <img align="left" alt="vscode" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
@@ -33,3 +27,8 @@
 <img align="left" alt="terminal" width="30px" src="./img/terminal-light.svg#gh-light-mode-only"/>
 
 [Mastodon]: https://chaos.social/@erase
+
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Erase01&layout=compact&theme=dark)
+![](https://github-readme-stats.vercel.app/api?username=Erase01&show_icons=true&theme=dark)
+[![](https://streak-stats.demolab.com/?user=Erase01&theme=dark)](https://git.io/streak-stats)
