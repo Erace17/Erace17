@@ -9,7 +9,7 @@
 [<img align="left" alt="erase | Mastodon" width="30px" src="./img/mastodon-icon.svg"
 />][Mastodon]
 
-<br/>
+<br>
 
 ### Languages and Tools:
 
@@ -29,9 +29,8 @@
 [Mastodon]: https://chaos.social/@erase
 
 <br>
-<br>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Erase01&layout=compact&theme=dark)
+### My Stats 📈:
 
 ![](https://github-readme-stats.vercel.app/api?username=Erase01&show_icons=true&theme=dark)
 
