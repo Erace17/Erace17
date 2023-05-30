@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on [temperature converter](https://github.com/Erase01/Temperaturenumrechner)
+- 🔭 I’m currently working on [1stAidTrainer](https://github.com/Erase01/1stAidTrainer)
 - 🌱 I’m currently learning Python
 - 😄 Pronouns: he/him
 - 🐧 I’m using Linux
